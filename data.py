@@ -16,7 +16,7 @@ lego_data = [['18+',21056,'Architecture',2022,150,["Toy's Rus",'Wall-Mart','Amaz
              ['9+',75301,'Star Wars',474,70,["Toy's Rus",'Wall-Mart','Amazon','Canadian Tire']],
              ['7+',75270,'Star Wars',200,40,["Toy's Rus",'Wall-Mart','Amazon','Canadian Tire']],
              ['10+',75255,'Star Wars',1771,115,["Toy's Rus",'Wall-Mart','Amazon']],
-             ['6+',75252,'Star Wars',4784,850,["Toy's Rus",'Amazon','Wall-Mart']],
+             ['16+',75252,'Star Wars',4784,850,["Toy's Rus",'Amazon','Wall-Mart']],
              ['18+',21332,'Ideas',2585,270,['Amazon']],
              ['4+',10698,'Creativ',790,47,["Toy's Rus",'Wall-Mart','Amazon']],
              ['18+',31203,'Ideas',11695,350,['Best-Buy','Wall-Mart','Amazon']],
